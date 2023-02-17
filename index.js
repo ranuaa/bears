@@ -228,8 +228,8 @@ gsap.registerPlugin(ScrollTrigger)
 
     /*   falling star   */
     gsap.to("#fstar", {
-        x: -700,
-        y: -250,
+        x: -470,
+        y: -200,
         ease: "power4.out",
         scrollTrigger: {
             trigger: ".scrollElement",
